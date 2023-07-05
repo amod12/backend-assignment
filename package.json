@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/amod12/backend-assignment/issues"
   },
-  "homepage": "https://github.com/amod12/backend-assignment#readme"
+  "homepage": "https://github.com/amod12/backend-assignment#readme",
+  "devDependencies": {
+    "prisma": "^4.16.2"
+  }
 }
